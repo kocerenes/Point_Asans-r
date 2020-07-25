@@ -1,0 +1,11 @@
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\bin\Debug\Point_AsansorUygulama.exe.config
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\bin\Debug\Point_AsansorUygulama.exe
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\bin\Debug\Point_AsansorUygulama.pdb
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\obj\Debug\Point_AsansorUygulama.csprojAssemblyReference.cache
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\obj\Debug\Point_AsansorUygulama.Form1.resources
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\obj\Debug\Point_AsansorUygulama.Properties.Resources.resources
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\obj\Debug\Point_AsansorUygulama.csproj.GenerateResource.cache
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\obj\Debug\Point_AsansorUygulama.csproj.CoreCompileInputs.cache
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\obj\Debug\Point_AsansorUygulama.exe
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\obj\Debug\Point_AsansorUygulama.pdb
+C:\Users\enes\source\repos\Point_AsansorUygulama\Point_AsansorUygulama\obj\Debug\Point_AsansorUygulama.Frm_Asansör.resources
